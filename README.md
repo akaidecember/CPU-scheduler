@@ -3,7 +3,9 @@ CPU scheduling program for FCFS, RR and SRTF
 
 To compile the program, 
 	gcc scheduler.c
-To run the program
+	
+To run the program:
+
 For FCFS
 	./a.out <input> FCFS
 For SRTF
